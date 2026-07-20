@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sanyaa404/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## String
+|  |
+| ------- |
+| [3163-string-compression-iii](https://github.com/sanyaa404/leetcode/tree/master/3163-string-compression-iii) |
 <!---LeetCode Topics End-->
