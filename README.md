@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3163-string-compression-iii](https://github.com/sanyaa404/leetcode/tree/master/3163-string-compression-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sanyaa404/leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sanyaa404/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
