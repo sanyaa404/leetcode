@@ -1,14 +1,16 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        int maxi = nums.size()+1;
-        vector<bool> exists(maxi+1);
-        for(int num: nums){
-            if(num>0 && num <= maxi+1) exists[num] = true;
+        int i = 0;
+        while(i < nums.size()){
+            while(nums[i] > 0 && nums[i] < nums.size() && i!=nums[i] && nums[i] != nums[nums[i]]){
+                swap(nums[i], nums[nums[i]]);
+            }
+            i++;
         }
-        for(int i=1; i<=maxi; i++){
-            if(!exists[i]) return i;
+        for(int i=1; i<nums.size(); i++){
+            if(nums[i] != i) return i;
         }
-        return maxi;
+        return nums[0] == nums.size() ? nums.size()+1 : nums.size();
     }
 };
