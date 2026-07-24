@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanyaa404/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/sanyaa404/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyaa404/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sanyaa404/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyaa404/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
