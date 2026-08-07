@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanyaa404/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sanyaa404/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/sanyaa404/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/sanyaa404/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/sanyaa404/leetcode/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sanyaa404/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyaa404/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sanyaa404/leetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/sanyaa404/leetcode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0312-burst-balloons) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
