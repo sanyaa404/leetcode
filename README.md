@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
