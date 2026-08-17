@@ -11,24 +11,20 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int k = lists.size();
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
-
-        while(true){
-            int idx = -1;
-            int mini = INT_MAX;
-            for(int i=0; i<k; i++){
-                if(lists[i]&& lists[i]->val < mini){
-                    mini = lists[i]->val;
-                    idx = i;
-                }
-            }
-            if(idx == -1) break;
-            curr->next = new ListNode(lists[idx]->val);
-            lists[idx] = lists[idx]->next; curr = curr->next;
+        using pl = pair<int, ListNode*>;
+        priority_queue<pl, vector<pl>, greater<pl> > minh;
+        for(auto list : lists){
+            if(list) minh.push({list->val, list});
         }
-
-        return dummy->next;
+        ListNode* head = new ListNode(0);
+        ListNode* temp = head;
+        while(!minh.empty()){
+            ListNode* node = minh.top().second; minh.pop();
+            temp->next = node;
+            temp = temp->next;
+            if(node->next) minh.push({node->next->val, node->next});
+        }
+        head = head->next;
+        return head;
     }
 };
