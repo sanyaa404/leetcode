@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanyaa404/leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/sanyaa404/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sanyaa404/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyaa404/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanyaa404/leetcode/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sanyaa404/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanyaa404/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sanyaa404/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyaa404/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0312-burst-balloons) |
