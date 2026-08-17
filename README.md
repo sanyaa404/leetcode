@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
+| [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
+| [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
