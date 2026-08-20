@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanyaa404/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sanyaa404/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanyaa404/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanyaa404/leetcode/tree/master/0342-power-of-four) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
