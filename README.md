@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
+| [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
 ## Matrix
 |  |
 | ------- |
