@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Breadth-First Search
 |  |
 | ------- |
