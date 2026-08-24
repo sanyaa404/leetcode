@@ -1,17 +1,17 @@
 class HitCounter {
 public:
-    priority_queue<int, vector<int>, greater<int>> minh;
+    queue<int> q;
     HitCounter() {
         
     }
     
     void hit(int timestamp) {
-        minh.push(timestamp);
+        q.push(timestamp);
     }
     
     int getHits(int timestamp) {
-        while(!minh.empty() && timestamp - minh.top() >= 300) minh.pop();
-        return minh.size();
+        while(!q.empty() && timestamp - q.front() >= 300) q.pop();
+        return q.size();
     }
 };
 
