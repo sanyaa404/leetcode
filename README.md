@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sanyaa404/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sanyaa404/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sanyaa404/leetcode/tree/master/0342-power-of-four) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sanyaa404/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanyaa404/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sanyaa404/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sanyaa404/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sanyaa404/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Matrix
 |  |
