@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/sanyaa404/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyaa404/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0312-burst-balloons) |
+| [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -210,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanyaa404/leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
+## Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
