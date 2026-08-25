@@ -5,10 +5,8 @@ public:
         if (matrix.empty()) {
             return output;
         }
-        
         int top = 0, bottom = matrix.size() - 1;
         int left = 0, right = matrix[0].size() - 1;
-        
         while (top <= bottom && left <= right) {
             for (int i = left; i <= right; i++) {
                 output.push_back(matrix[top][i]);
