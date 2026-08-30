@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sanyaa404/leetcode/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0312-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/sanyaa404/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyaa404/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sanyaa404/leetcode/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
