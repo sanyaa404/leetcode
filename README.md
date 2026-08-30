@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanyaa404/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sanyaa404/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/sanyaa404/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sanyaa404/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanyaa404/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -290,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanyaa404/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sanyaa404/leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sanyaa404/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
