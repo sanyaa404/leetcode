@@ -6,15 +6,14 @@ public:
         }
         if(dp[i] != -1) return dp[i];
         string word = "";
-        int ans = 0;
         for(int k=i; k<=n; k++){
             word += s[k];
             //add partition
             if(words.find(word) != words.end()){
-                ans = ans || solve(k+1, n, s, words, dp);
+                if(solve(k+1, n, s, words, dp)) return dp[i] = true;
             }
         }
-        return dp[i] = ans;
+        return dp[i] = false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
         unordered_set<string> words(wordDict.begin(), wordDict.end());
