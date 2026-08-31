@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sanyaa404/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sanyaa404/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0226-invert-binary-tree) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
