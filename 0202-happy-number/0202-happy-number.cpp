@@ -1,17 +1,18 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        set<int> st;
-        while(true){
+        unordered_set<int> st;
+
+        int num = n;
+        while(!st.count(num)){
+            st.insert(num);
             int sum = 0;
-            while(n>0){
-                sum += pow(n%10,2);
-                n /= 10;
+            while(num){
+                sum += pow(num%10, 2);
+                num /= 10;
             }
             if(sum == 1) return true;
-            if(st.count(sum)) return false;
-            st.insert(sum);
-            n = sum;
+            num = sum;
         }
         return false;
     }
