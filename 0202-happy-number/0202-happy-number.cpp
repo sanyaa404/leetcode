@@ -1,19 +1,21 @@
 class Solution {
 public:
-    bool isHappy(int n) {
-        unordered_set<int> st;
-
-        int num = n;
-        while(!st.count(num)){
-            st.insert(num);
-            int sum = 0;
-            while(num){
-                sum += pow(num%10, 2);
-                num /= 10;
-            }
-            if(sum == 1) return true;
-            num = sum;
+    int getNext(int num){
+        int sum = 0;
+        while(num){
+            sum += (num%10)*(num%10);
+            num /= 10;
         }
-        return false;
+        return sum;
+    }
+    bool isHappy(int n) {
+        int slow = n;
+        int fast = getNext(n);
+
+        while(fast != 1 && slow!= fast){
+            slow = getNext(slow);
+            fast = getNext(getNext(fast));
+        }
+        return (fast == 1);
     }
 };
