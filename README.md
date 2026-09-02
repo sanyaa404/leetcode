@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/sanyaa404/leetcode/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/sanyaa404/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sanyaa404/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanyaa404/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Linked List
 |  |
 | ------- |
