@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/sanyaa404/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/sanyaa404/leetcode/tree/master/0177-nth-highest-salary) |
+| [0197-rising-temperature](https://github.com/sanyaa404/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sanyaa404/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Linked List
 |  |
