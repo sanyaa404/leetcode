@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0450-delete-node-in-a-bst](https://github.com/sanyaa404/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/sanyaa404/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Dynamic Programming
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sanyaa404/leetcode/tree/master/0146-lru-cache) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 ## Queue
 |  |
 | ------- |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
