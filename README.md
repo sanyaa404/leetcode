@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sanyaa404/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/sanyaa404/leetcode/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 ## Queue
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
