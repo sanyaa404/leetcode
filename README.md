@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0312-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0312-burst-balloons) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanyaa404/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sanyaa404/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanyaa404/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanyaa404/leetcode/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sanyaa404/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Two Pointers
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sanyaa404/leetcode/tree/master/0146-lru-cache) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 ## Queue
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
