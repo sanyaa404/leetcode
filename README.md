@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanyaa404/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0312-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0312-burst-balloons) |
+| [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanyaa404/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
+| [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sanyaa404/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
+| [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 ## Math
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanyaa404/leetcode/tree/master/0146-lru-cache) |
+| [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanyaa404/leetcode/tree/master/0054-spiral-matrix) |
+| [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 ## Trie
 |  |
 | ------- |
