@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanyaa404/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0450-delete-node-in-a-bst](https://github.com/sanyaa404/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 ## Binary Tree
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sanyaa404/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyaa404/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
+| [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/sanyaa404/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0525-contiguous-array](https://github.com/sanyaa404/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyaa404/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 ## Heap (Priority Queue)
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyaa404/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Simulation
 |  |
 | ------- |
