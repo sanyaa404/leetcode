@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0525-contiguous-array](https://github.com/sanyaa404/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyaa404/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0525-contiguous-array](https://github.com/sanyaa404/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyaa404/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanyaa404/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/sanyaa404/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0525-contiguous-array](https://github.com/sanyaa404/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyaa404/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
