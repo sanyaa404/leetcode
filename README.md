@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanyaa404/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/sanyaa404/leetcode/tree/master/0139-word-break) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/sanyaa404/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanyaa404/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Breadth-First Search
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0226-invert-binary-tree) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
 | [0305-number-of-islands-ii](https://github.com/sanyaa404/leetcode/tree/master/0305-number-of-islands-ii) |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Persistent Data Structure
 |  |
@@ -365,4 +371,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
