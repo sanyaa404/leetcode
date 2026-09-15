@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanyaa404/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/sanyaa404/leetcode/tree/master/0735-asteroid-collision) |
 | [0845-longest-mountain-in-array](https://github.com/sanyaa404/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sanyaa404/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1014-best-sightseeing-pair](https://github.com/sanyaa404/leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanyaa404/leetcode/tree/master/0054-spiral-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
+| [0735-asteroid-collision](https://github.com/sanyaa404/leetcode/tree/master/0735-asteroid-collision) |
 ## Trie
 |  |
 | ------- |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sanyaa404/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
