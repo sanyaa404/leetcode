@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sanyaa404/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/sanyaa404/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Binary Search Tree
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sanyaa404/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/sanyaa404/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
 | [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
+| [0617-merge-two-binary-trees](https://github.com/sanyaa404/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 ## Breadth-First Search
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/0226-invert-binary-tree) |
 | [0269-alien-dictionary](https://github.com/sanyaa404/leetcode/tree/master/0269-alien-dictionary) |
 | [0399-evaluate-division](https://github.com/sanyaa404/leetcode/tree/master/0399-evaluate-division) |
+| [0617-merge-two-binary-trees](https://github.com/sanyaa404/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanyaa404/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
