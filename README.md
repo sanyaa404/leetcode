@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -435,8 +437,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 ## String Matching
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 <!---LeetCode Topics End-->
