@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanyaa404/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/sanyaa404/leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sanyaa404/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0706-design-hashmap](https://github.com/sanyaa404/leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/sanyaa404/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sanyaa404/leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sanyaa404/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sanyaa404/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/sanyaa404/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanyaa404/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanyaa404/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sanyaa404/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sanyaa404/leetcode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/sanyaa404/leetcode/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/sanyaa404/leetcode/tree/master/0253-meeting-rooms-ii) |
