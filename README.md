@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanyaa404/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0735-asteroid-collision](https://github.com/sanyaa404/leetcode/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanyaa404/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Trie
 |  |
 | ------- |
@@ -446,4 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
