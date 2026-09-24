@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sanyaa404/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sanyaa404/leetcode/tree/master/0190-reverse-bits) |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanyaa404/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sanyaa404/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanyaa404/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Tournament Sort
 |  |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanyaa404/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Queue
 |  |
@@ -456,11 +461,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
