@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sanyaa404/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanyaa404/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/sanyaa404/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanyaa404/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyaa404/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1323-maximum-69-number](https://github.com/sanyaa404/leetcode/tree/master/1323-maximum-69-number) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sanyaa404/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanyaa404/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
