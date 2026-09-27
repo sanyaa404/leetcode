@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanyaa404/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sanyaa404/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanyaa404/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/sanyaa404/leetcode/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanyaa404/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sanyaa404/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanyaa404/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanyaa404/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sanyaa404/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyaa404/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanyaa404/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
