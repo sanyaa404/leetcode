@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sanyaa404/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [1901-find-a-peak-element-ii](https://github.com/sanyaa404/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Tree
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/sanyaa404/leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/sanyaa404/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanyaa404/leetcode/tree/master/0200-number-of-islands) |
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/sanyaa404/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
