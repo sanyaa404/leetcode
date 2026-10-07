@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/sanyaa404/leetcode/tree/master/1146-snapshot-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sanyaa404/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1901-find-a-peak-element-ii](https://github.com/sanyaa404/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Tree
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sanyaa404/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/sanyaa404/leetcode/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/sanyaa404/leetcode/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/sanyaa404/leetcode/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sanyaa404/leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1895-largest-magic-square](https://github.com/sanyaa404/leetcode/tree/master/1895-largest-magic-square) |
 | [2145-count-the-hidden-sequences](https://github.com/sanyaa404/leetcode/tree/master/2145-count-the-hidden-sequences) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sanyaa404/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/sanyaa404/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanyaa404/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Merge Sort
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sanyaa404/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/sanyaa404/leetcode/tree/master/0362-design-hit-counter) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanyaa404/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Data Stream
 |  |
 | ------- |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sanyaa404/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyaa404/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanyaa404/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Simulation
 |  |
 | ------- |
@@ -485,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sanyaa404/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanyaa404/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/sanyaa404/leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Rolling Hash
 |  |
 | ------- |
