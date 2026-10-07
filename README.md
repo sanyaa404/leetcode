@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyaa404/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sanyaa404/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0068-text-justification](https://github.com/sanyaa404/leetcode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/sanyaa404/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sanyaa404/leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/sanyaa404/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanyaa404/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanyaa404/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanyaa404/leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/sanyaa404/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sanyaa404/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanyaa404/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanyaa404/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanyaa404/leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/sanyaa404/leetcode/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/sanyaa404/leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0735-asteroid-collision](https://github.com/sanyaa404/leetcode/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanyaa404/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
